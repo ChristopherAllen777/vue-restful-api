@@ -14,3 +14,6 @@ Will run api on localhost:5000
 - npm run serve
 
 will run application on port 8080
+
+# Deploy to Heroku
+- npm run build
